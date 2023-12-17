@@ -13,6 +13,6 @@ for i in range(1,m+1):
 print("Sayılar Toplamı :",sum(a))
 
 a=[]
-for i in range(1,10):
+for i in range(1,101):
     a.append(i)
 print("sayılar toplamı",sum(a))
